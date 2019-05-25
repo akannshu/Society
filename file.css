@@ -1,0 +1,120 @@
+/* baseline-menu-24px */
+
+position: absolute;
+width: 52px;
+height: 78px;
+left: 314px;
+top: 9px;
+
+
+
+/* final_logo */
+
+position: absolute;
+width: 203px;
+height: 200px;
+left: 86px;
+top: 114px;
+
+background: url(final_logo.jpg);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 375px;
+height: 691px;
+left: 0px;
+top: 1px;
+
+background: #02A3FD;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 375px;
+height: 525.83px;
+left: 0px;
+top: 278.5px;
+
+background: #02A3FD;
+
+
+/* BVCOE ACM */
+
+position: absolute;
+width: 283px;
+height: 55px;
+left: 57px;
+top: 473px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 59px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 233.5px;
+height: 307px;
+left: 0px;
+top: -8px;
+
+background: #02A3FD;
+
+
+/* ADVANCING COMPUTING AS A SCIENCE AND PROFESSION */
+
+position: absolute;
+width: 351px;
+height: 30px;
+left: 17px;
+top: 555px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 357px;
+height: 85px;
+left: 9px;
+top: 664px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* KNOW MORE */
+
+position: absolute;
+width: 330px;
+height: 53px;
+left: 22px;
+top: 679px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+text-align: center;
+
+color: #02A3FD;
