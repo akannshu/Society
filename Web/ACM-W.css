@@ -1,0 +1,113 @@
+/* baseline-menu-24px */
+
+position: absolute;
+width: 52px;
+height: 78px;
+left: 314px;
+top: 9px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 0px;
+height: 2.24px;
+left: 744px;
+top: 248.76px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 375px;
+height: 611px;
+left: 0px;
+top: 193px;
+
+background: #02A3FD;
+
+
+/* final_logo */
+
+position: absolute;
+width: 66px;
+height: 75px;
+left: 9px;
+top: 12px;
+
+background: url(final_logo.jpg);
+
+
+/* BVCOE ACM-W */
+
+position: absolute;
+width: 366px;
+height: 61px;
+left: 5px;
+top: 119.74px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 52px;
+line-height: 61px;
+/* identical to box height */
+text-align: center;
+
+color: #44AB1F;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-0.43deg);
+
+
+/* BVCOE ACM-W supports, celebrates, and advocates for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women. */
+
+position: absolute;
+width: 372px;
+height: 324px;
+left: 3px;
+top: 254px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 339px;
+height: 82px;
+left: 18px;
+top: 632px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* KNOW MORE */
+
+position: absolute;
+width: 308px;
+height: 54px;
+left: 34px;
+top: 646px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 59px;
+text-align: center;
+
+color: #02A3FD;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
