@@ -8,3 +8,4 @@
 
 ### ACM-W Section
 
+![Screenshot (191)](https://user-images.githubusercontent.com/37223446/58450612-499c4400-812d-11e9-9e96-d9e5cbcc8442.png)
