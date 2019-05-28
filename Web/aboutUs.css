@@ -1,0 +1,92 @@
+/* baseline-menu-24px */
+
+position: absolute;
+width: 52px;
+height: 78px;
+left: 314px;
+top: 9px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 0px;
+height: 2.24px;
+left: 744px;
+top: 248.76px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 375px;
+height: 629px;
+left: 0px;
+top: 175px;
+
+background: #02A3FD;
+
+
+/* final_logo */
+
+position: absolute;
+width: 66px;
+height: 75px;
+left: 9px;
+top: 12px;
+
+background: url(final_logo.jpg);
+
+
+/* ABOUT US */
+
+position: absolute;
+width: 366px;
+height: 61px;
+left: 0px;
+top: 101.74px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 52px;
+line-height: 61px;
+/* identical to box height */
+text-align: center;
+
+color: #44AB1F;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-0.43deg);
+
+
+/* ACM is the world’s largest educational and scientific computing society which delivers resources that advance computing as a science and a profession. The BVCOE Delhi Student Chapter of the ACM was established in May, 2013 with a goal to provide student s a better exposure to ideas, knowledge, experience, and trends in computing. The chapter aims at creating interest among the students in computer science apart from what they learn during the course work. */
+
+position: absolute;
+width: 375px;
+height: 593px;
+left: 3px;
+top: 211px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* baseline-navigate_next-24px */
+
+position: absolute;
+width: 91px;
+height: 70px;
+left: 275px;
+top: 723px;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
