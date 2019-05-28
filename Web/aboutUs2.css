@@ -1,0 +1,157 @@
+/* baseline-menu-24px */
+
+position: absolute;
+width: 52px;
+height: 78px;
+left: 314px;
+top: 9px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 0px;
+height: 2.24px;
+left: 744px;
+top: 248.76px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 375px;
+height: 629px;
+left: 0px;
+top: 175px;
+
+background: #02A3FD;
+
+
+/* final_logo */
+
+position: absolute;
+width: 66px;
+height: 75px;
+left: 9px;
+top: 12px;
+
+background: url(final_logo.jpg);
+
+
+/* ABOUT US */
+
+position: absolute;
+width: 366px;
+height: 61px;
+left: 5px;
+top: 101.74px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 52px;
+line-height: 61px;
+/* identical to box height */
+text-align: center;
+
+color: #44AB1F;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-0.43deg);
+
+
+/* The chapter will organize seminars and workshops on different domains by speakers who are well known in their area. These talks give students opportunities to learn about advanced research subjects. The Chapter organizes various technical events like Programming Contests, Technical quizzes, Discussions, etc. */
+
+position: absolute;
+width: 375px;
+height: 590px;
+left: 0px;
+top: 214px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 26px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* baseline-navigate_next-24px */
+
+position: absolute;
+width: 87.76px;
+height: 68.65px;
+left: 87.75px;
+top: 804.23px;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-178.96deg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 339px;
+height: 61px;
+left: 18px;
+top: 575px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Rectangle 2.1 */
+
+position: absolute;
+width: 339px;
+height: 61px;
+left: 18px;
+top: 667px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* BVCOE ACM-W */
+
+position: absolute;
+width: 325px;
+height: 48px;
+left: 26px;
+top: 582px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+
+color: #02A3FD;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* BVCOE ACM-Parivartan */
+
+position: absolute;
+width: 299px;
+height: 61px;
+left: 39px;
+top: 667px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #02A3FD;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
